@@ -1,25 +1,30 @@
-<h1 align="center">Todo React App  📝</h1>  
-<p align="center">
-  🖊️ A simple Todo App built using <a href="https://reactjs.org/">React</a> and <a href="https://mantine.dev/">Mantine UI</a>
-</p>
+# React To-Do App
 
-## This is a super simple Todo App built using React.js and styled using Mantine UI.
+This is a simple to-do app built with React. It allows you to create, update, and delete tasks.
 
-You can view a live demo of the project here: https://javascriptbear.github.io/todo_react_app/
-Or, you can watch this video demo
+## Installation
 
-### **(Most likely outdated, its reccomeneded you check out the live demo!)**
+1. Clone the repository: `git clone https://github.com/simanto-steve/to-to-do.git`
+2. Navigate to the project directory: `cd todo-react-app`
+3. Install the dependencies: `npm install`
 
-https://user-images.githubusercontent.com/109053279/178185429-8de77574-cc2f-429f-8c4e-b1ed9f290894.mp4
+## Usage
 
-## 😃 Features:
+1. Start the development server: `npm start`
+2. Open your browser and visit `http://localhost:3000`
+3. Start adding and managing your to-do tasks!
 
-- ➕ Add todos
-- 🗑️ Delete todos
-- ⏸ Save todos to Local Storage when the state changes
-- ▶️ Load the todos from Local Storage when the site is loaded again
-- 🌙 Light \ dark mode toggle
+## Features
 
-<p align="center">
-  ❤️ Feel free to create issues and contributions for features or bugs to this project.
-</p>
+- Create new tasks
+- Mark tasks as completed
+- Edit existing tasks
+- Delete tasks
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
